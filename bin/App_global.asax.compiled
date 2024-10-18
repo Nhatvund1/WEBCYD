@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="8" virtualPath="/CYD_NEWS/global.asax" hash="ffffffff82b78076" filehash="1b50cda00c10" flags="150000" assembly="App_global.asax" type="ASP.global_asax">
+    <filedeps>
+        <filedep name="/CYD_NEWS/global.asax" />
+    </filedeps>
+</preserve>
